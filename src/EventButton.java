@@ -1,9 +1,3 @@
-/**
- * Author: M. Allen
- *
- * An extension to JButton that binds the button action to a Driver object,
- * which must feature a method called buttonPressed()
- */
 import javax.swing.*;
 import java.awt.event.*;
 
